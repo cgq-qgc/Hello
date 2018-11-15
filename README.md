@@ -24,8 +24,10 @@ et voudriez vous joindre à nous?**
 Écrivez-nous avec votre adresse courriel de l'INRS ou de la CGC et il nous fera plaisir de vous
 inviter à vous joindre au groupe.
 À noter qu'en acceptant de faire parti du groupe GitHub
-de la CGC, vous vous engagez également à adhérer à notre 
+de la CGQ, vous vous engagez également à respecter notre 
 [Code de conduite](./code-of-conduct.md).
+
+### Responsables actuels du groupe
 
 Jean-Sébastien Gosselin ([jean-sebastien.gosselin@ete.inrs.ca](mailto:jean-sebastien.gosselin@ete.inrs.ca))<br>
 Harold Vigneault ([harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.inrs.ca))
