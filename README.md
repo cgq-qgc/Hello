@@ -34,7 +34,7 @@ de la CGQ, vous vous engagez également à respecter notre
 Jean-Sébastien Gosselin ([jean-sebastien.gosselin@ete.inrs.ca](mailto:jean-sebastien.gosselin@ete.inrs.ca))<br>
 Harold Vigneault ([harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.inrs.ca))
 
-### Lectures d'intérêt et autres ressources pertinentes
+### Lectures d'intérêt pour mieux gérer son compte et ses projets dans GitHub
 
 - https://opensource.guide/
 - https://www.microservices.com/talks/avoid-creating-github-junkyard-lauri-apple/
@@ -44,3 +44,13 @@ Harold Vigneault ([harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.inr
 - https://git-scm.com/download/gui/windows
 - https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/
 - https://help.github.com/articles/signing-commits/
+
+### Autres ressources pertinentes pour les géoscientifiques
+
+- https://github.com/groupeLIAMG
+- https://github.com/Unidata
+- https://github.com/GeoscienceAustralia
+- https://github.com/agile-geoscience
+- http://abouthydrology.blogspot.com/2016/11/python-resources-for-hydrologists.html
+- https://github.com/bcgov
+- https://github.com/NRCan
