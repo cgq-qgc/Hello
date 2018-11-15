@@ -27,7 +27,5 @@ inviter à vous joindre au groupe.
 de la CGC, vous vous engagez également à adhérer à notre 
 [Code de conduite](./code-of-conduct.md).
 
-Les administrateurs actuels du groupe sont:
-
 Jean-Sébastien Gosselin ([jean-sebastien.gosselin@ete.inrs.ca](mailto:jean-sebastien.gosselin@ete.inrs.ca))<br>
 Harold Vigneault ([harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.inrs.ca))
