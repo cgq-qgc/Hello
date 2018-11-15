@@ -18,8 +18,10 @@ et changements climatiques). Nous encourageons fortement les projets
 open source, mais nous offrons également la possibilité d'héberger
 les projets dans des répertoires privés lorsque nécessaire.
 
-**Vous travaillez ou étudiez au Centre ETE de l'INRS ou à la CGC-Québec
-et voudriez vous joindre à nous?**
+### Comment se joindre au groupe
+
+Vous travaillez ou étudiez au Centre ETE de l'INRS ou à la CGC-Québec
+et voudriez vous joindre à nous?
 
 Écrivez-nous avec votre adresse courriel de l'INRS ou de la CGC et il nous fera plaisir de vous
 inviter à vous joindre au groupe.
@@ -31,3 +33,12 @@ de la CGQ, vous vous engagez également à respecter notre
 
 Jean-Sébastien Gosselin ([jean-sebastien.gosselin@ete.inrs.ca](mailto:jean-sebastien.gosselin@ete.inrs.ca))<br>
 Harold Vigneault ([harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.inrs.ca))
+
+### Lectures d'intérêt et autres ressources pertinentes
+
+- https://opensource.guide/
+- https://www.microservices.com/talks/avoid-creating-github-junkyard-lauri-apple/
+- https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/
+- http://blog.houen.net/easy-way-copy-one-git-branch-another-local-branch/
+- https://github.com/TeamPorcupine/ProjectPorcupine/wiki/How-to-Test-a-Pull-Request
+- https://git-scm.com/download/gui/windows
