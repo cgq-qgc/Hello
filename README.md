@@ -18,7 +18,7 @@ et changements climatiques). Nous encourageons fortement les projets
 open source, mais nous offrons également la possibilité d'héberger
 les projets dans des répertoires privés lorsque nécessaire.
 
-### Comment se joindre au groupe
+## Comment se joindre au groupe
 
 Vous travaillez ou étudiez au Centre ETE de l'INRS ou à la CGC-Québec
 et voudriez vous joindre à nous?
@@ -29,28 +29,34 @@ inviter à vous joindre au groupe.
 de la CGQ, vous vous engagez également à respecter notre 
 [Code de conduite](./code-of-conduct.md).
 
-### Responsables actuels du groupe
+## Responsables actuels du groupe
 
 Jean-Sébastien Gosselin ([jean-sebastien.gosselin@ete.inrs.ca](mailto:jean-sebastien.gosselin@ete.inrs.ca))<br>
 Harold Vigneault ([harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.inrs.ca))
 
-### Lectures d'intérêt pour mieux gérer son compte et ses projets dans GitHub
+## Ressources pertinentes
 
-- https://opensource.guide/
-- https://www.microservices.com/talks/avoid-creating-github-junkyard-lauri-apple/
-- https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/
+### Ressources pour l'utilisation de Git/GitHub :
+
+- https://git-scm.com/download/gui/windows
 - http://blog.houen.net/easy-way-copy-one-git-branch-another-local-branch/
 - https://github.com/TeamPorcupine/ProjectPorcupine/wiki/How-to-Test-a-Pull-Request
-- https://git-scm.com/download/gui/windows
 - https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/
 - https://help.github.com/articles/signing-commits/
 
-### Autres ressources pertinentes pour les géoscientifiques
+### Ressources pertinentes pour les géoscientifiques :
 
 - https://github.com/groupeLIAMG
 - https://github.com/Unidata
 - https://github.com/GeoscienceAustralia
 - https://github.com/agile-geoscience
-- http://abouthydrology.blogspot.com/2016/11/python-resources-for-hydrologists.html
 - https://github.com/bcgov
 - https://github.com/NRCan
+- http://abouthydrology.blogspot.com/2016/11/python-resources-for-hydrologists.html
+- https://github.com/dmgsantos/WaterPy
+
+### Autres lectures d'intérêt :
+
+- https://opensource.guide/
+- https://www.microservices.com/talks/avoid-creating-github-junkyard-lauri-apple/
+- https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/
