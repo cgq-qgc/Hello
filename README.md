@@ -43,3 +43,4 @@ Harold Vigneault ([harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.inr
 - https://github.com/TeamPorcupine/ProjectPorcupine/wiki/How-to-Test-a-Pull-Request
 - https://git-scm.com/download/gui/windows
 - https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/
+- https://help.github.com/articles/signing-commits/
