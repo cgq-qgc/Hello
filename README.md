@@ -1,7 +1,7 @@
-# Bienvenue sur le groupe GitHub de la CGQ
+# Bienvenue sur le groupe GitHub de la CGQ-QGC
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](./code-of-conduct.md).
 
-Le groupe GitHub de la CGQ est un récent effort dont le but est d'offrir un
+Le groupe GitHub de la [CGQ-QGC](http://cgq-qgc.ca) est un récent effort dont le but est d'offrir un
 espace conjoint aux scientifiques du Centre Eau Terre Environnement de l'Institut
 national de la recherche scientifique ([INRS-ETE](http://www.ete.inrs.ca/ete/))
 et de la division de Québec de la Commission géologique du Canada
