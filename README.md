@@ -6,8 +6,8 @@ espace conjoint aux scientifiques du Centre Eau Terre Environnement de l'Institu
 national de la recherche scientifique ([INRS-ETE](http://www.ete.inrs.ca/ete/))
 et de la division de Québec de la Commission géologique du Canada
 ([CGC-Québec](https://www.rncan.gc.ca/sciences-terre/sciences/geologie/cgc/17101))
-pour partager leurs travaux et collaborer sur des projets de développement
-informatique dans le domaine des géosciences.
+pour partager leurs travaux et collaborer sur des projets de développement d'outils
+informatiques et de base de données dans le domaine des géosciences.
 
 Nous acceptons tous les projets apportant une contribution
 technologique ou scientifique innovatrice et pertinente à la géologie
