@@ -10,7 +10,7 @@ pour partager leurs travaux et collaborer sur des projets de développement d'ou
 informatiques et de base de données dans le domaine des géosciences.
 
 Nous acceptons tous les projets apportant une contribution
-technologique ou scientifique innovatrice et pertinente à la géologie
+technologique ou scientifique novatrice et pertinente à la géologie
 régionale, aux géoressources (eaux souterraines, minéraux et combustibles
 fossiles) et aux géosciences de l'environnement (risques naturels, géodynamique
 environnementale, caractérisation et restauration de sites contaminés
@@ -21,7 +21,7 @@ les projets dans des répertoires privés lorsque nécessaire.
 ## Comment se joindre au groupe
 
 Vous travaillez ou étudiez au Centre ETE de l'INRS ou à la CGC-Québec
-et voudriez vous joindre à nous?
+et vous souhaiteriez vous joindre à nous ?
 
 Écrivez-nous avec votre adresse courriel de l'INRS ou de la CGC et il nous fera plaisir de vous
 inviter à vous joindre au groupe.
@@ -29,6 +29,7 @@ inviter à vous joindre au groupe.
 de la CGQ, vous vous engagez également à respecter notre 
 [Code de conduite](./code-of-conduct.md).
 
+Vos référents :
 Jean-Sébastien Gosselin : [jean-sebastien.gosselin@ete.inrs.ca](mailto:jean-sebastien.gosselin@ete.inrs.ca)<br>
 Harold Vigneault : [harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.inrs.ca)
 
