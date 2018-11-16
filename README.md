@@ -30,6 +30,7 @@ de la CGQ, vous vous engagez également à respecter notre
 [Code de conduite](./code-of-conduct.md).
 
 Vos référents :
+
 Jean-Sébastien Gosselin : [jean-sebastien.gosselin@ete.inrs.ca](mailto:jean-sebastien.gosselin@ete.inrs.ca)<br>
 Harold Vigneault : [harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.inrs.ca)
 
