@@ -38,7 +38,7 @@ Harold Vigneault : [harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.in
 
 ### Ressources pour l'utilisation de Git/GitHub :
 
-- https://git-scm.com/download/gui/windows
+- https://git-scm.com/downloads/guis/
 - http://blog.houen.net/easy-way-copy-one-git-branch-another-local-branch/
 - https://github.com/TeamPorcupine/ProjectPorcupine/wiki/How-to-Test-a-Pull-Request
 - https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/
