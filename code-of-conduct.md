@@ -6,30 +6,30 @@ Dans l'intérêt de favoriser un environnement ouvert et accueillant, nous nous
 engageons, en tant que responsables et en tant que personnes contribuant à ce
 groupe, à faire de la participation une expérience exempte de harcèlement pour
 tout le monde, quel que soit le niveau d'expérience, le sexe, l'identité ou
-l'expression de genre, l'orientation sexuelle, le handicap, l'apparence
-personnelle, la taille physique, l'origine ethnique, l'âge, la religion ou la
+l'expression de genre, l'orientation sexuelle, le handicap,
+l'apparence personnelle, la taille physique, l'origine ethnique, l'âge, la religion ou la
 nationalité.
 
 ## Nos critères
 
 Exemples de comportements qui contribuent à créer un environnement positif :
 
-* l'utilisation d'un langage ouvert et accueillant
-* le respect des différents points de vue et expériences vécues
+* utiliser un langage ouvert et accueillant
+* respecter les différents points de vue et expériences vécues
 * accepter poliment les critiques constructives
 * se concentrer sur ce qui est meilleur pour le groupe
 * faire preuve d'empathie envers les autres membres du groupe
 
 Exemples de comportements non acceptables :
 
-* l'utilisation de langage ou d'imagerie sexualisés et les avances sexuelles non
+* utiliser un langage ou une imagerie sexualisés et des avances sexuelles non
   sollicitées
-* le _trolling_, les commentaires insultants ou désobligeants, et les attaques
+* employer le _trolling_ ou publier des commentaires insultants ou désobligeants, et des attaques
   personnelles ou d'ordre politique
-* le harcèlement en public ou en privé
-* la publication d'informations privées de tierces personnes, telles que des
+* pratiquer le harcèlement en public ou en privé
+* publier des informations privées de tierces personnes, telles que des
   adresses physiques ou électroniques, sans permission explicite
-* toute conduite qui pourrait être raisonnablement considérée comme inappropriée
+* ... ainsi que toute autre conduite qui pourrait être raisonnablement considérée comme inappropriée
   dans le milieu professionnel
 
 ## Nos responsabilités
@@ -49,9 +49,9 @@ ou nuisibles.
 
 Ce Code de Conduite s'applique à la fois au sein des espaces du groupe ainsi que
 dans les espaces publics lorsqu'un individu représente le groupe.
-Font parties des exemples de représentation d'un groupe le fait d'utiliser
+Font partis des exemples de représentation d'un groupe le fait d'utiliser
 une adresse email propre au groupe, de poster sur
-les réseaux sociaux avec un compte officiel, ou d'intervenir pour représenter le
+les réseaux sociaux avec un compte officiel référant au groupe, ou d'intervenir pour représenter le
 groupe au cours d'un événement en-ligne ou hors-ligne. La représentation du
 groupe pourra être autrement définie et clarifiée par les responsables du
 groupe.
@@ -63,7 +63,7 @@ inacceptable peuvent être signalés en contactant l'un des responsable du group
 [jean-sebastien.gosselin@ete.inrs.ca](mailto:jean-sebastien.gosselin@ete.inrs.ca) ou
 [harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.inrs.ca).
 Toutes les plaintes seront examinées et étudiées
-et se traduiront par une réponse appropriée aux
+et se traduiront par une réponse appropriée selon les
 circonstances. L'équipe du groupe s'engage à garder confidentielles les
 informations de la personne qui remonte un incident. Plus de détails sur
 la politique de mise en application des règles peuvent être publiés séparément.
