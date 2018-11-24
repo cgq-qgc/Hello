@@ -1,4 +1,4 @@
-# Bienvenue sur le groupe GitHub de la CGQ-QGC
+# Bienvenue sur le groupe GitHub du CGQ
 [![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](./code-of-conduct.md).
 
 Le groupe GitHub de la [CGQ-QGC](http://cgq-qgc.ca) est un récent effort dont le but est d'offrir un
@@ -7,13 +7,12 @@ national de la recherche scientifique ([INRS-ETE](http://www.ete.inrs.ca/ete/))
 et de la division de Québec de la Commission géologique du Canada
 ([CGC-Québec](https://www.rncan.gc.ca/sciences-terre/sciences/geologie/cgc/17101))
 pour partager leurs travaux et collaborer sur des projets de développement d'outils
-informatiques et de base de données dans le domaine des géosciences.
+informatiques et de bases de données dans le domaine des géosciences.
 
 Nous acceptons tous les projets apportant une contribution
 technologique ou scientifique novatrice et pertinente à la géologie
 régionale, aux géoressources (eaux souterraines, minéraux et combustibles
-fossiles) et aux géosciences de l'environnement (risques naturels, géodynamique
-environnementale, caractérisation et restauration de sites contaminés
+fossiles) et aux géosciences de l'environnement (risques naturels, caractérisation et restauration de sites contaminés
 et changements climatiques). Nous encourageons fortement les projets
 open source, mais nous offrons également la possibilité d'héberger
 les projets dans des répertoires privés lorsque nécessaire.
@@ -25,7 +24,7 @@ et vous souhaiteriez vous joindre à nous ?
 
 Écrivez-nous avec votre adresse courriel de l'INRS ou de la CGC et il nous fera plaisir de vous
 inviter à vous joindre au groupe.
-À noter qu'en acceptant de faire parti du groupe GitHub
+À noter qu'en acceptant de faire partie du groupe GitHub
 de la CGQ, vous vous engagez également à respecter notre 
 [Code de conduite](./code-of-conduct.md).
 
