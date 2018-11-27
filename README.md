@@ -22,16 +22,13 @@ les projets dans des répertoires privés lorsque nécessaire.
 Vous travaillez ou étudiez au Centre ETE de l'INRS ou à la CGC-Québec
 et vous souhaiteriez vous joindre à nous ?
 
-Écrivez-nous avec votre adresse courriel de l'INRS ou de la CGC et il nous fera plaisir de vous
+Écrivez-nous avec votre adresse courriel de l'INRS ou de la CGC en indiquant votre nom d'usager GitHub et il nous fera plaisir de vous
 inviter à vous joindre au groupe.
 À noter qu'en acceptant de faire partie du groupe GitHub
-de la CGQ, vous vous engagez également à respecter notre 
+du CGQ, vous vous engagez également à respecter notre 
 [Code de conduite](./code-of-conduct.md).
 
-Vos référents :
-
-Jean-Sébastien Gosselin : [jean-sebastien.gosselin@ete.inrs.ca](mailto:jean-sebastien.gosselin@ete.inrs.ca)<br>
-Harold Vigneault : [harold.vigneault@ete.inrs.ca](mailto:harold.vigneault@ete.inrs.ca)
+Contact : [cgq-qgc@ete.inrs.ca](mailto:cgq-qgc@ete.inrs.ca)
 
 ## Ressources pertinentes
 
