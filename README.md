@@ -1,5 +1,6 @@
 # Bienvenue sur le groupe GitHub du CGQ
-[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](./code-of-conduct.md).
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](./code-of-conduct.md)
+[![Gitter](https://badges.gitter.im/cgq-qgc/public.svg)](https://gitter.im/cgq-qgc/public?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Le groupe GitHub du [CGQ-QGC](http://cgq-qgc.ca) est un récent effort dont le but est d'offrir un
 espace conjoint aux scientifiques du Centre Eau Terre Environnement de l'Institut
